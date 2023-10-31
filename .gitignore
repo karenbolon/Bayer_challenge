@@ -1,0 +1,8 @@
+/.DS_Store
+/.ipynb_checkpoints/
+/images/early_detection.webp
+/images/removed/
+/cache/
+/exports/
+*.log
+#/.env
